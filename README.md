@@ -69,6 +69,7 @@ _En la pantalla de consentimiento se debe publicar la Aplicación_
 ![img_17.png](images_readme/img_17.png)
 
 ![img_18.png](images_readme/img_18.png)
+
 **IMPORTANTE**
    
 ![img_19.png](images_readme/img_19.png)
